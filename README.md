@@ -10,9 +10,7 @@
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
-      background-color: #f9fafb; /* Light background */
-      color: #222; /* Main text color */
-      font-family: 'Proxima Nova', 'Avenir', Arial, sans-serif;
+      
   
 
     
