@@ -7,35 +7,7 @@
 <head>
 
   charity: water - Clean Water for All
-  <link rel="stylesheet" href="styles.css">
-  
-      
-  
-
-    
-  
-
-
-    nav .logo {
-      color: #2E9df7; /* Brand blue */
-    }
-
-    /* Smooth color and scale effect for buttons */
-    .donate-btn, .cta-btn {
-      background-color: #2E9df7;
-      color: #fff;
-      transition: background 0.3s, transform 0.3s;
-    }
-
-    .donate-btn:hover, .cta-btn:hover {
-      background-color: #FFC907;
-      color: #222;
-      transform: scale(1.05);
-    }
-
-    footer {
-      background-color: #2E9df7; /* Brand blue */
-      color: #2E9df7;            /* Brand yellow text */
+  <link rel="stylesheet" href="styBrand yellow text */
     }
 
     /* Card hover effect */
