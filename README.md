@@ -142,7 +142,6 @@ Communities</h1>
         <h1>Bringing Clean Water to Communities all around the world</h1>
     </header>
 
-    <main>
         <section class="hero">
             <img src="https://github.com/cyberR3N/charity---water-landing-page-/blob/main/Gemini_Generated_Image_kdpsojkdpsojkdps.png?raw=true" alt="volunteers_water_pump" style="max-width: 85%;">
             <p>Learn about our initiatives to provide fresh, clean water.</p>
@@ -153,13 +152,7 @@ Communities</h1>
             <div class="image-grid">
                 <img src="https://github.com/cyberR3N/charity---water-landing-page-/blob/main/Gemini_Generated_Image_4zqwk34zqwk34zqw.png?raw=true" alt="Children drinking water in rural India" style="max-width: 100%;">
                 <img src="https://raw.githubusercontent.com/cyberR3N/charity---water-landing-page-/6109b85aa058408fcaadf56f8731f8695ea560a3/A%20stylized%20world%20map%20using%20three%20main%20colors%2077c907%20(green)%2C%202E9df7%20(blue)%2C%20and%20ffe600%20(yellow)..jpeg" alt="Volunteers dispensing water" style="max-width: 100%;">
-                </div>
-        </section>
-    </main> 
 
-    <footer>
-        <p>&</p>
-    </footer>
 </body>
 </html></html>
 </html> Contact Us 123 455 9876 Charitywater.org
