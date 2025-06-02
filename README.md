@@ -13,11 +13,11 @@
       background-color: #f9fafb; /* Light background */
       color: #222; /* Main text color */
       font-family: 'Proxima Nova', 'Avenir', Arial, sans-serif;
-    }
+  
 
-    header {
-      background-color: #2E9df7; /* Brand yellow */
-    }
+    
+  
+
 
     nav .logo {
       color: #2E9df7; /* Brand blue */
