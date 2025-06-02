@@ -8,8 +8,7 @@
 
   charity: water - Clean Water for All
   <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
+  
       
   
 
