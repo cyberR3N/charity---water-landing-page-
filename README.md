@@ -1,14 +1,12 @@
 # charity:water
 
 ![image alt](https://github.com/cyberR3N/charity---water-landing-page-/blob/main/ChatGPT%20Image%20Jun%201,%202025%20at%2012_26_51%20AM.png?raw=true)
-![image alt]
-![image alt]
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>charity: water - Clean Water for All</title>
+
+  charity: water - Clean Water for All
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
