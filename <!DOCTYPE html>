@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>charity: water - Clean Water for All</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background-color: #f9fafb; /* Light background */
+      color: #222; /* Main text color */
+    }
+
+    header {
+      background-color: #ffe600; /* Bright yellow for header */
+    }
+
+    nav .logo {
+      color: #222; /* Logo text color */
+    }
+
+    .donate-btn, .cta-btn {
+      background-color: #222; /* Button background */
+      color: #ffe600;         /* Button text */
+    }
+
+    footer {
+      background-color: #222;
+      color: #ffe600;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">charity: water</div>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#impact">Impact</a></li>
+        <li><a href="#donate" class="donate-btn">Donate</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Climate Justice Starts Here: Fund Clean Water,Empower
+Communities</h1>
+      <p>Join us in bringing clean, safe drinking water to people in need.</p>
+      <a href="#donate" class="cta-btn">Donate Now</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <img src="https://via.placeholder.com/400x250" alt="About charity: water">
+      <div>
+        <h2>Our Mission</h2>
+        <p>We’re on a mission to solve the water crisis and reinvent charity for a new generation. 100% of your donation funds clean water projects.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="impact">
+    <div class="container">
+      <h2>Your Impact</h2>
+      <div class="impact-cards">
+        <div class="card">
+          <img src="https://via.placeholder.com/100" alt="Wells Built">
+          <h3>100,000+</h3>
+          <p>Wells Built</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/100" alt="People Helped">
+          <h3>15 Million+</h3>
+          <p>People Helped</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/100" alt="Countries">
+          <h3>29</h3>
+          <p>Countries</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="donate">
+    <div class="container donate-section">
+      <h2>Ready to Make a Difference?</h2>
+      <p>Your donation brings clean water to families around the world.</p>
+      <a href="#" class="cta-btn">Donate Now</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 charity: water. All rights reserved.</p>
+  </footer>
+</body>
+</html>
